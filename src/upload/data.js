@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+   {
+    name: "Hardik Bhandari",
+    role: "Full stack developer",
+    image: "https://avatars.githubusercontent.com/bhandarihardik",
+    skills: ['python','django','AWS','PostgreSql'],
+    link: [
+      "https://github.com/bhandarihardik",
+      "https://www.linkedin.com/in/hardik-work/",
+      "https://twitter.com/Bhandarihardik2",
+    ],
+  },
 ];
 
 export default data;
